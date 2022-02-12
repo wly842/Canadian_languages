@@ -1,3 +1,3 @@
-# canadian_languages
+# Canadian_languages
 
 Authors:
